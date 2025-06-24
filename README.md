@@ -2,9 +2,9 @@
 
 # 👋 I am piar
 
-Self-taught dev, reverse engineer in training, and digital archaeologist
-Currently working to master **hardware + software**
-I tinker with Wiis
+- Self-taught dev, reverse engineer in training, and digital archaeologist
+- Currently working to master **hardware + software**
+- I tinker with Wiis
 
 ---
 
