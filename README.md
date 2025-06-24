@@ -1,13 +1,41 @@
-<h1 align="center">Welcome to my profile, I'm piarsquared.</h1>
-<h3 align="center">I go by piar, though.</h3>
+<img src="banner.png" alt="Header Image" width="100%" align="center" alt="Banner"/>
 
-- 📈 I'm working on becoming proficient with **GDScript.**
+# 👋 I am piar
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/@piarWii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="piarwii" height="30" width="40" /></a>
-</p>
+Self-taught dev, reverse engineer in training, and digital archaeologist
+Currently working to master **hardware + software**
+I tinker with Wiis
 
-<h3 align="left">Languages and Tools that I currently use:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+### 💻 What I'm About
+
+- 🐧 I like linux
+- 💿 Wii modder
+- 🧠 Learning **Godot**, Python, scripting, and real-world dev workflows
+- 🔧 Learning how to Make Wii homebrew apps
+- 🌆 Designing a 2D game about a cybernetic stray cat in neon Tokyo, if of course it's a good day
+- 🎮 Inspired by games like *Earthbound*, *Celeste*, and *Cuphead*
+- 💔 Being nervous that AI will take over
+
+---
+
+### ⚙️ Tools & Tech I Like
+
+- `Arch Linux` | `Python` | `GDScript` | `Wine` | `Batch scripting` | `Reverse engineering`
+- Pixel art, retro aesthetics, and *doing it the hard way*
+
+---
+
+### 📼 Currently Working On
+
+- 🚧 **v(aporwave)ii Party** – a vaporwave Wii Party mod. This is something I've wanted to do for a while. Most Wii Party mods aren't great.
+- 🐾 **CYBRKTTY** – RPG + boss rush hybrid set in a techno-dystopian Tokyo. If I uh, sit down and learn Godot.
+- 🛠️ Experimental Wii homebrew Python runner, though, this is definately something that I might drop.
+
+---
+
+### 🔗 Connect
+
+- 📦 My projects will speak for me, but feel free to lurk & watch
+
