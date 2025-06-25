@@ -1,4 +1,4 @@
-<img src="banner.png" alt="Header Image" width="100%" align="center" alt="Banner"/>
+<img src="bannerWhi.png" alt="Header Image" width="100%" align="center" alt="Banner"/>
 
 # 👋 I am piar
 
