@@ -2,7 +2,7 @@
 
 # 👋 I am piar
 
-- Self-taught dev, reverse engineer in training, and digital archaeologist
+- So, I'm currently learning a lot of stuff at the moment so there's really no solid thing I can say for sure will be done.
 - Currently working to master **hardware + software**
 - I tinker with Wiis
 
@@ -23,7 +23,7 @@
 ### ⚙️ Tools & Tech I Like
 
 - `Arch Linux` | `Python` | `GDScript` | `Wine` | `Batch scripting` | `Reverse engineering`
-- Pixel art, retro aesthetics, and *doing it the hard way*
+- Pixel art, retro aesthetics, I also do like modern aesthetics but almost everything online and with computers is modernized at this point.
 
 ---
 
@@ -31,7 +31,7 @@
 
 - 🚧 **v(aporwave)ii Party** – a vaporwave Wii Party mod. This is something I've wanted to do for a while. Most Wii Party mods aren't great.
 - 🐾 **CYBRKTTY** – RPG + boss rush hybrid set in a techno-dystopian Tokyo. If I uh, sit down and learn Godot.
-- 🛠️ Experimental Wii homebrew Python runner, though, this is definately something that I might drop.
+- 🛠️ Never Gamble Python Port (This is subject to be moved to Godot)
 
 ---
 
