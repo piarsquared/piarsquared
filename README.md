@@ -11,8 +11,8 @@
 ### 💻 What I'm About
 
 - 🐧 I like linux
-- 💿 Wii modder
-- 🧠 Learning **Godot**, Python, scripting, and real-world dev workflows
+- 💿 Wii modder (Mostly retired now)
+- 🧠 Learning **Godot**, Python, scripting, etc
 - 🔧 Learning how to Make Wii homebrew apps
 - 🌆 Designing a 2D game about a cybernetic stray cat in neon Tokyo, if of course it's a good day
 - 🎮 Inspired by games like *Earthbound*, *Celeste*, and *Cuphead*
@@ -22,7 +22,7 @@
 
 ### ⚙️ Tools & Tech I Like
 
-- `Arch Linux` | `Python` | `GDScript` | `Wine` | `Batch scripting` | `Reverse engineering`
+- `Arch Linux` | `Python` | `GDScript` | `Wine` | `Batch scripting` | `Reverse engineering` | `Windows 11/10`
 - Pixel art, retro aesthetics, I also do like modern aesthetics but almost everything online and with computers is modernized at this point.
 
 ---
