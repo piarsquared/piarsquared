@@ -8,7 +8,7 @@
 
 ---
 
-###❓ What I'm doing
+### ❓ What I'm doing
 
 - 🐧 I like linux
 - 💿 Wii modder (Mostly retired now)
