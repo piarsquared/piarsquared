@@ -1,18 +1,18 @@
 <img src="bannerWhi.png" alt="Header Image" width="100%" align="center" alt="Banner"/>
 
-# 👋 I am piar
+# Piarsquared
 
 - So, I'm currently learning a lot of stuff at the moment so there's really no solid thing I can say for sure will be done.
-- Currently working to master **hardware + software**
-- I tinker with Wiis
+- Currently working to master hardware + software, this can be in relation to a couple of things.
+- I formerly used to tinker with Wiis
 
 ---
 
-### 💻 What I'm About
+###❓ What I'm doing
 
 - 🐧 I like linux
 - 💿 Wii modder (Mostly retired now)
-- 🧠 Learning **Godot**, Python, scripting, etc
+- ‼️ Learning Godot, Python, scripting, you get the picture
 - 🔧 Learning how to Make Wii homebrew apps
 - 🌆 Designing a 2D game about a cybernetic stray cat in neon Tokyo, if of course it's a good day
 - 🎮 Inspired by games like *Earthbound*, *Celeste*, and *Cuphead*
@@ -37,5 +37,8 @@
 
 ### 🔗 Connect
 
-- 📦 My projects will speak for me, but feel free to lurk & watch
+- 📦 I may make a discord server down the line if that's how I feel in relation to my popularity
+- 🫵 If you *must* reach me, my discord is piarsquared.
+
+Goodnight! :3
 
