@@ -6,17 +6,16 @@
 
 ### ❓ What am I?
 
-- I like linux
-- Wii modder (Mostly retired now)
-- Learning Godot, Python, scripting, you get the picture
-- 💔 Being nervous that AI will take over
-
+- School student at the moment
+- Software developer
+- Backend
+- Tech YouTube
+  
 ---
 
 ### ⚙️ Tools & Tech I Like
 
-- `Arch Linux` | `Python` | `GDScript` | `Wine` | `Batch scripting` | `Reverse engineering` | `Windows 11/10`
-- Pixel art, retro aesthetics, I also do like modern aesthetics but almost everything online and with computers is modernized at this point.
+`Linux` | `Python` | `GDScript` | `Macintosh` | `Wii modding` | `Reverse engineering` | `Windows 11/10`
 
 ---
 
