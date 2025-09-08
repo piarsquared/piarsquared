@@ -1,4 +1,6 @@
-<img src="bannerWhi.png" alt="Header Image" width="100%" align="center" alt="Banner"/>
+<p align="center">
+  <img src="bannerWhi.png" alt="Header Image" width="100%">
+</p>
 
 # Hi from piar
 
@@ -9,26 +11,32 @@
 - School student at the moment
 - Software developer
 - Backend
-- Tech YouTube
+- Tech YouTuber
   
 ---
 
 ### ⚙️ Tools & Tech I Like
 
-`Linux` | `Python` | `GDScript` | `Macintosh` | `Wii modding` | `Reverse engineering` | `Windows 11/10`
+<p align="center">
+  <code>Linux</code> | <code>Python</code> | <code>GDScript</code> | <code>Macintosh</code> | <code>Wii modding</code> | <code>Reverse engineering</code> | <code>Windows 11/10</code>
+</p>
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=piarsquared&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,godot,c,cpp,bootstrap,vscode)](https://skillicons.dev/)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=piarsquared&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="GitHub Top Languages" />
+</p>
 
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,py,godot,c,cpp,bootstrap,vscode" />
+  </a>
+</p>
 ---
 
 ### 🔗 Connect
 
-- 📦 I may make a discord server down the line if that's how I feel in relation to my popularity
-- 🫵 If you *must* reach me, my discord is piarsquared.
+- 📦 I may make a Discord server down the line if that's how I feel in relation to my popularity.
+- 🫵 If you *must* reach me, my Discord is `piarsquared`.
 
 Goodnight! :3
-
