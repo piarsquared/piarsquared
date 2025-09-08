@@ -2,7 +2,7 @@
   <img src="bannerWhi.png" alt="Header Image" width="100%">
 </p>
 
-# Hi from piar
+# 👋 Hi from piar
 
 ### ❓ What am I?
 
