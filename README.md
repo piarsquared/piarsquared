@@ -4,8 +4,6 @@
 
 # Hi from piar
 
----
-
 ### ❓ What am I?
 
 - School student at the moment
