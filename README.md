@@ -11,7 +11,6 @@
 - Backend
 - Tech YouTuber
   
----
 
 ### ⚙️ Tools & Tech I Like
 
@@ -19,7 +18,6 @@
   <code>Linux</code> | <code>Python</code> | <code>GDScript</code> | <code>Macintosh</code> | <code>Wii modding</code> | <code>Reverse engineering</code> | <code>Windows 11/10</code>
 </p>
 
----
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=piarsquared&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="GitHub Top Languages" />
@@ -30,7 +28,6 @@
     <img src="https://skillicons.dev/icons?i=js,html,css,py,godot,c,cpp,bootstrap,vscode" />
   </a>
 </p>
----
 
 ### 🔗 Connect
 
