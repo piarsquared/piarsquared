@@ -20,7 +20,7 @@
 ---
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=piarsquared&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,py,godot,c,cpp,bootstrap,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,py,godot,c,cpp,bootstrap,vscode)](https://skillicons.dev/)
 
 
 ---
