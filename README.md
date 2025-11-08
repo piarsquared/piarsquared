@@ -20,7 +20,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=piarsquared&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="GitHub Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piarsquared&layout=compact&theme=radical" alt="GitHub Top Languages" />
 </p>
 
 <p align="center">
