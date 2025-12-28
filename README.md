@@ -23,6 +23,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piarsquared&layout=compact&theme=radical" alt="GitHub Top Languages" />
 </p>
 
+<!-- I love HTML :3 -->
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,py,godot,c,cpp,bootstrap,vscode" />
