@@ -31,9 +31,4 @@
   </a>
 </p>
 
-### 🔗 Connect
-
-- 📦 I may make a Discord server down the line if that's how I feel in relation to my popularity.
-- 🫵 If you *must* reach me, my Discord is `piarsquared`.
-
 Goodnight! :3
