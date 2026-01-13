@@ -1,34 +1,29 @@
 <p align="center">
-  <img src="bannerWhi.png" alt="Header Image" width="100%">
+  <img src="bannerWhi.png" alt="Header Image" width="50%">
 </p>
 
-# 👋 Hi from piar
-
-### ❓ What am I?
-
-- School student at the moment
-- Software developer
-- Backend
-- Tech YouTuber
-  
-
-### ⚙️ Tools & Tech I Like
+<h1 align="center">Hi, I'm piar :3</h1>
 
 <p align="center">
-  <code>Linux</code> | <code>Python</code> | <code>GDScript</code> | <code>Macintosh</code> | <code>Wii modding</code> | <code>Reverse engineering</code> | <code>Windows 11/10</code>
+  I like to code things sometimes
 </p>
 
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piarsquared&layout=compact&theme=radical" alt="GitHub Top Languages" />
-</p>
+## 🧠 What I do
 
-<!-- I love HTML :3 -->
+- Student who spends way too much time on tech
+- Python + systems dev
+- game dev (godot, some pygame and Love2D experience)
+- Wii modding & reverse engineering
+- Terminal tools, Linux, and utilities
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,py,godot,c,cpp,bootstrap,vscode" />
-  </a>
-</p>
+I like projects where I get to poke at stuff nobody was meant to poke at
 
-Goodnight! :3
+---
+
+## 🛠️ Stuff i use a lot
+
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=js,html,css,py,godot,c,cpp,bootstrap,vscode" /> </a> </p>
+
+<p align="center"> <code>Linux</code> | <code>Python</code> | <code>GDScript</code> | <code>Macintosh</code> | <code>Wii modding</code> | <code>Reverse engineering</code> | <code>Windows 11/10</code> </p>
