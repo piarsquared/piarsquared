@@ -10,19 +10,17 @@
 
 ---
 
-## 🧠 What I do
+## What I do
 
-- Student who spends way too much time on tech
-- Python + systems dev
+- Currently a full time student
+- Python + systems dev (mostly tinkering)
 - game dev (godot, some pygame and Love2D experience)
 - Wii modding & reverse engineering
 - Terminal tools, Linux, and utilities
 
-I like projects where I get to poke at stuff nobody was meant to poke at
-
 ---
 
-## 🛠️ Stuff i use a lot
+## Stuff i use a lot
 
 <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=js,html,css,py,godot,c,cpp,bootstrap,vscode" /> </a> </p>
 
