@@ -13,7 +13,7 @@
 ## What I do
 
 - Currently a full time student
-- Python + systems dev (mostly tinkering)
+- Software Developer
 - game dev (godot, some pygame and Love2D experience)
 - Wii modding & reverse engineering
 - Terminal tools, Linux, and utilities
@@ -22,6 +22,4 @@
 
 ## Stuff i use a lot
 
-<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=js,html,css,py,godot,c,cpp,vscode,vim" /> </a> </p>
-
-<p align="center"> <code>Linux</code> | <code>Python</code> | <code>GDScript</code> | <code>Macintosh</code> | <code>Wii modding</code> | <code>Reverse engineering</code> | <code>Windows 11/10</code> </p>
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=js,html,css,py,godot,c,cpp,vscode,vim,windows,linux" /> </a> </p>
