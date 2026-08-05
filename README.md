@@ -12,10 +12,10 @@
 
 ### About Me
 
-* 🎓 **Status:** Full-time student building cool software on the side.
-* 🕹️ **Game Dev:** I make games primarily in Godot, with some past experience in Pygame and LÖVE2D.
-* 🛠️ **Reverse Engineering:** I tinker with Wii modding and low-level hardware exploration.
-* 🐧 **Projects:** I want to build CLI/Terminal tools, Linux utilities, etc.
+* **Status:** Full-time student building cool software on the side.
+* **Game Dev:** I make games primarily in Godot, with some past experience in Pygame and LÖVE2D.
+* **Reverse Engineering:** I tinker with Wii modding and low-level hardware exploration.
+* **Projects:** I want to (and eventually will) build CLI/Terminal tools, Linux utilities, etc.
 
 ---
 
@@ -26,8 +26,6 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,py,js,godot,linux,bash,windows,vim,vscode,html,css" />
   </a>
 </p>
-
----
 
 ### My Stats
 
